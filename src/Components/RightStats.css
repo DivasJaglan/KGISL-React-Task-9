@@ -1,0 +1,13 @@
+img {
+  width: 800px;
+  height: auto;
+  border-radius: 10px;
+}
+.stats {
+  display: flex;
+  gap: 1rem;
+  padding: 2rem;
+}
+.right-stats {
+  display: grid;
+}

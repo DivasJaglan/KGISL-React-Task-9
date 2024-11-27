@@ -1,0 +1,29 @@
+/* Stats Cards */
+.right-stats {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.stats-card {
+  padding: 20px;
+  border-radius: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+.stats-card-blue {
+  background: #4f8ef7;
+}
+
+.stats-card-purple {
+  background: #826af9;
+}
+
+.stats-card-violet {
+  background: #6d5dfc;
+}
+
+.stats-card-red {
+  background: #f45b5b;
+}
